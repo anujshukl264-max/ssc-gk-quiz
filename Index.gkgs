@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SSC GK Quiz</title>
+<meta charset="UTF-8">
+</head>
+<body>
+
+<h1>SSC GK Quiz (10 Questions)</h1>
+
+<p>1. भारत की राजधानी क्या है?</p>
+<button onclick="alert('सही उत्तर: नई दिल्ली')">उत्तर देखें</button>
+
+<p>2. भारत का राष्ट्रीय पशु कौन है?</p>
+<button onclick="alert('सही उत्तर: बाघ')">उत्तर देखें</button>
+
+<p>3. भारत का राष्ट्रीय पक्षी कौन है?</p>
+<button onclick="alert('सही उत्तर: मोर')">उत्तर देखें</button>
+
+<p>4. संविधान दिवस कब मनाया जाता है?</p>
+<button onclick="alert('सही उत्तर: 26 नवंबर')">उत्तर देखें</button>
+
+<p>5. भारत का राष्ट्रीय फूल कौन सा है?</p>
+<button onclick="alert('सही उत्तर: कमल')">उत्तर देखें</button>
+
+<p>6. भारत का राष्ट्रीय खेल कौन सा माना जाता है?</p>
+<button onclick="alert('सही उत्तर: हॉकी')">उत्तर देखें</button>
+
+<p>7. भारत का राष्ट्रीय गान किसने लिखा?</p>
+<button onclick="alert('सही उत्तर: रवीन्द्रनाथ टैगोर')">उत्तर देखें</button>
+
+<p>8. ताजमहल कहाँ स्थित है?</p>
+<button onclick="alert('सही उत्तर: आगरा')">उत्तर देखें</button>
+
+<p>9. पृथ्वी का उपग्रह कौन है?</p>
+<button onclick="alert('सही उत्तर: चंद्रमा')">उत्तर देखें</button>
+
+<p>10. भारत का राष्ट्रीय वृक्ष कौन सा है?</p>
+<button onclick="alert('सही उत्तर: बरगद')">उत्तर देखें</button>
+
+</body>
+</html>
